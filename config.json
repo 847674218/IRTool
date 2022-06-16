@@ -1,0 +1,166 @@
+[
+  {
+    "requirementDescription": "F1",
+    "fullyQualifiedName": "FileIOUtil.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F2",
+    "fullyQualifiedName": "GetClassFileUtil.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F3",
+    "fullyQualifiedName": "TransferToTxtUtil.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F4",
+    "fullyQualifiedName": "DataPreprecess.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F5",
+    "type": "CLASS",
+    "fullyQualifiedName": "BatchingPreprocess.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F6",
+    "type": "CLASS",
+    "fullyQualifiedName": "CamelCase.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F7",
+    "type": "CLASS",
+    "fullyQualifiedName": "CleanUp.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F8",
+    "type": "CLASS",
+    "fullyQualifiedName": "Snowball.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F8",
+    "type": "CLASS",
+    "fullyQualifiedName": "Among.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F8",
+    "type": "CLASS",
+    "fullyQualifiedName": "EnglishStemmer.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F8",
+    "type": "CLASS",
+    "fullyQualifiedName": "SnowballProgram.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F8",
+    "type": "CLASS",
+    "fullyQualifiedName": "SnowballStemmer.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F9",
+    "type": "CLASS",
+    "fullyQualifiedName": "Stopwords.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F10",
+    "type": "CLASS",
+    "fullyQualifiedName": "TextPreprocess.java",
+    "introducer": "user1",
+    "state": "passConfirm",
+    "confirmor": [
+      "user1",
+      "user2"
+    ],
+    "rejecter": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "F1",
+        "normalProcess": "Read and write files."
+    },
+    {
+        "name": "F2",
+        "normalProcess": "Extract the java files from the project and write them to the specified folder."
+    },
+    {
+        "name": "F3",
+        "normalProcess": "Translate Java files into TXT files."
+    },
+    {
+        "name": "F4",
+        "normalProcess": "Manage the preprocessed data and the folders where the preprocessed data is stored."
+    },
+    {
+        "name": "F5",
+        "normalProcess": "Batch files and requirements."
+    },
+    {
+        "name": "F6",
+        "normalProcess": "Dismantling hump nomenclature."
+    },
+    {
+        "name": "F7",
+        "normalProcess": "Clean data: Extract English words and convert them to lowercase."
+    },
+    {
+        "name": "F8",
+        "normalProcess": "To extract the stem."
+    },
+    {
+        "name": "F9",
+        "normalProcess": "Delete stop word."
+    },
+    {
+        "name": "F10",
+        "normalProcess": "The text is preprocessed."
+    }
+]
