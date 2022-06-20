@@ -45,7 +45,6 @@
   },
   {
     "requirementDescription": "F5",
-    "type": "CLASS",
     "fullyQualifiedName": "BatchingPreprocess.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -57,7 +56,6 @@
   },
   {
     "requirementDescription": "F6",
-    "type": "CLASS",
     "fullyQualifiedName": "CamelCase.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -69,7 +67,6 @@
   },
   {
     "requirementDescription": "F7",
-    "type": "CLASS",
     "fullyQualifiedName": "CleanUp.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -81,7 +78,6 @@
   },
   {
     "requirementDescription": "F8",
-    "type": "CLASS",
     "fullyQualifiedName": "Snowball.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -93,7 +89,6 @@
   },
   {
     "requirementDescription": "F8",
-    "type": "CLASS",
     "fullyQualifiedName": "Among.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -105,7 +100,6 @@
   },
   {
     "requirementDescription": "F8",
-    "type": "CLASS",
     "fullyQualifiedName": "EnglishStemmer.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -117,7 +111,6 @@
   },
   {
     "requirementDescription": "F8",
-    "type": "CLASS",
     "fullyQualifiedName": "SnowballProgram.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -129,7 +122,6 @@
   },
   {
     "requirementDescription": "F8",
-    "type": "CLASS",
     "fullyQualifiedName": "SnowballStemmer.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -141,7 +133,6 @@
   },
   {
     "requirementDescription": "F9",
-    "type": "CLASS",
     "fullyQualifiedName": "Stopwords.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -153,7 +144,6 @@
   },
   {
     "requirementDescription": "F10",
-    "type": "CLASS",
     "fullyQualifiedName": "TextPreprocess.java",
     "introducer": "user1",
     "state": "passConfirm",
@@ -161,6 +151,57 @@
       "user1",
       "user2"
     ],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F12",
+    "fullyQualifiedName": "CopyFileUtil.java",
+    "introducer": "TLE",
+    "state": "create",
+    "confirmor": [],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F13",
+    "fullyQualifiedName": "DataPath.java",
+    "introducer": "TLE",
+    "state": "create",
+    "confirmor": [],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F14",
+    "fullyQualifiedName": "GetTraceMatrix.java",
+    "introducer": "TLE",
+    "state": "create",
+    "confirmor": [],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F16",
+    "type": "CLASS",
+    "fullyQualifiedName": "BreakClassIntoMethods.java",
+    "introducer": "TLE",
+    "state": "create",
+    "confirmor": [],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F16",
+    "type": "CLASS",
+    "fullyQualifiedName": "DataPath.java",
+    "introducer": "TLE",
+    "state": "create",
+    "confirmor": [],
+    "rejecter": []
+  },
+  {
+    "requirementDescription": "F16",
+    "type": "CLASS",
+    "fullyQualifiedName": "RequirementsDivisionUtil.java",
+    "introducer": "TLE",
+    "state": "create",
+    "confirmor": [],
     "rejecter": []
   }
 ]

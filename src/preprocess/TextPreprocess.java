@@ -11,8 +11,6 @@ public class TextPreprocess {
 
     public String doUCFileProcess() {
         str = CleanUp.chararctorClean(str);
-        // here
-//        str = CamelCase.split(str);
         str = CleanUp.lengthFilter(str, 3);
         str = CleanUp.tolowerCase(str);
         str = Snowball.stemming(str);

@@ -38,5 +38,29 @@
     {
         "name": "F10",
         "normalProcess": "The text is preprocessed."
+    },
+    {
+        "name": "F11",
+        "normalProcess": "Break the class files into method files."
+    },
+    {
+        "name": "F12",
+        "normalProcess": "Copy the file."
+    },
+    {
+        "name": "F13",
+        "normalProcess": "Get all class and method names from the project."
+    },
+    {
+        "name": "F14",
+        "normalProcess": "Get the initial trace link Matrix."
+    },
+    {
+        "name": "F15",
+        "normalProcess": "Split the requirements document: Split each line of the requirements document into a file."
+    },
+    {
+        "name": "F16",
+        "normalProcess": "Stored data path."
     }
 ]

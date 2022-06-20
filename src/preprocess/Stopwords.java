@@ -6,10 +6,11 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Stopwords {
+    //删除停止词
     public static String remover(String input, String stopwordsPath) {
 
         String stopwords[] = FileIOUtil.readFile(stopwordsPath).split("\n");
-        // about\r remove that \r
+
         for (int i = 0; i < stopwords.length; i++) {
             stopwords[i] = stopwords[i].trim();
         }

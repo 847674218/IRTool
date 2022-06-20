@@ -1,7 +1,7 @@
 package util;
 
-import com.sun.istack.internal.NotNull;
-import com.sun.istack.internal.Nullable;
+import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -12,12 +12,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class FileIOUtil {
-    public static void abort(String m) {
-        System.err.println(m);
-        System.err.flush();
-        Thread.dumpStack();
-        System.exit(1);
-    }
 
     @Nullable
     public static String readFile(@NotNull String path) {
